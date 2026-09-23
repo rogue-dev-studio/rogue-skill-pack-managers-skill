@@ -11,16 +11,16 @@ description: >-
 
 ## Procedure
 
-1. Inventaris skills terpasang vs `TEAM.yaml` (jangan install katalog penuh ke tim sempit).
-2. Install hanya yang di allowlist tim / diminta user.
-3. Pin versi bila tool mendukung; catat sumber (GitHub/marketplace).
-4. Audit: hapus skill orphan; cek duplikat vs `ALIASES.md`.
-5. Jangan install skill yang mengeksekusi remote script tanpa review.
+1. Inventory installed skills vs `TEAM.yaml` (do not install full catalog to narrow teams).
+2. Install only team allowlist / user-requested skills.
+3. Pin versions when tool supports; record source (GitHub/marketplace).
+4. Audit: remove orphan skills; check duplicates vs `ALIASES.md`.
+5. Do not install skills that execute remote scripts without review.
 
 ## DoD
 
-- [ ] Terpasang = allowlist
-- [ ] Sumber tercatat di notes project/tim
+- [ ] Installed = allowlist
+- [ ] Source recorded in project/team notes
 ## Attribution
 
 <!-- ATTRIBUTION: Rogue Development | https://github.com/rogue-dev-studio | DO-NOT-REMOVE -->
