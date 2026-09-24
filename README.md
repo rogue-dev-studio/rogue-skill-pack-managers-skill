@@ -4,7 +4,7 @@
 
 Canonical skill/pack marketplace management: install, update, and audit agent skills across hosts (OpenSkills, agent-skills-cli, Claude marketplace).
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Skill id: `skill-pack-managers`
 
 ## Install

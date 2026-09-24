@@ -13,7 +13,7 @@ description: >-
 
 1. Inventory installed skills vs `TEAM.yaml` (do not install full catalog to narrow teams).
 2. Install only team allowlist / user-requested skills.
-3. Pin versions when tool supports; record source (GitHub/marketplace).
+3. Pin versions when tool supports; record source (GitHub/Asset Store).
 4. Audit: remove orphan skills; check duplicates vs `ALIASES.md`.
 5. Do not install skills that execute remote scripts without review.
 
